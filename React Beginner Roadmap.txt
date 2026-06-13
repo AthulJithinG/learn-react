@@ -1,0 +1,45 @@
+Beginner Project Ideas
+
+Build these in order:
+
+Counter App
+Todo List
+Weather App
+Notes App
+Expense Tracker
+Movie Search App
+Recipe Finder
+E-commerce Product Catalog
+
+Each project reinforces the concepts above.
+
+Recommended Learning Resources
+Official React tutorial: React Learn Documentation
+Interactive JavaScript practice: freeCodeCamp
+JavaScript reference: MDN Web Docs
+
+A 4-Week Beginner Roadmap
+
+Week 1
+JavaScript fundamentals
+JSX
+Components
+Props
+
+Week 2
+State (useState)
+Events
+Forms
+Conditional rendering
+
+Week 3
+Lists
+useEffect
+API calls
+
+Week 4
+Build a Todo App
+Build a Weather App
+Deploy a project using Vercel
+
+A good milestone is: build a Todo App without copying code. If you can create one using components, props, state, and list rendering, you already understand the foundations of React.
